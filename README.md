@@ -1,1 +1,2 @@
-# FSA-ReactReduxProject
+# FSA-ReactProject
+MyWeatherApp for Full Stack Academy
