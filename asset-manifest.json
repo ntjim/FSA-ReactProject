@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FSA-ReactProject/static/css/main.dd86680b.css",
+    "main.js": "/FSA-ReactProject/static/js/main.3c829ea7.js",
+    "static/js/787.d4aba7ab.chunk.js": "/FSA-ReactProject/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/FSA-ReactProject/index.html",
+    "main.dd86680b.css.map": "/FSA-ReactProject/static/css/main.dd86680b.css.map",
+    "main.3c829ea7.js.map": "/FSA-ReactProject/static/js/main.3c829ea7.js.map",
+    "787.d4aba7ab.chunk.js.map": "/FSA-ReactProject/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd86680b.css",
+    "static/js/main.3c829ea7.js"
+  ]
+}
